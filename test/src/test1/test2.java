@@ -6,7 +6,7 @@ public class test2 {
 		// TODO Auto-generated method 
 System.out.println("hi");
 		system.out.println("hello");
-		System.out.println("how are you");
+		System.out.println("how are you");;
 	}
 
 }
